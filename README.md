@@ -1,6 +1,13 @@
-# FishCLEF-2015
+# Dataset
+## Aquarium Fish
+Send e-mail to apply for download permission, `yangzai126@126.com`
+
+Large scale fish data can promote the development of stronger and more complex recognition networks and algorithms. However, fish species are complex and diverse. How to accurately organize and collect data sets is still the key problem in data set processing. Therefore, this experiment collects fish video images in the aquarium and manually cleans them to remove blurred and non fish images. 10042 images including 83 species of fish were obtained, with a total of 13558 targets, and the resolution of each image was 600 ¡Á 400 pixels. In order to meet the requirements of the data set in target detection and recognition based on supervised learning, labelme software is used to label the images. Each image includes target detection frame (x, y, W, H) and category label information. Where x, y, W and H represent the position (x, y) and length and width (W, H) of the detection frame respectively. In the experiment, the data were summarized and sorted according to the VOC (visual object classes) format, so that other relevant studies can be reused.
+
+
+## FishCLEF-2015
   dataset come from https://github.com/perceivelab/FishCLEF-2015
-## FishCLEF-2015 data processing
+### FishCLEF-2015 data processing
   source dataset from https://tinyurl.com/FishCLEF-2015    
   our processing dataset: https://pan.baidu.com/s/1EVY1sQ4KErlE4JT7VxIoFQ    
   baiduyun Extraction code: gy72
