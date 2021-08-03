@@ -27,8 +27,8 @@ Large scale fish data can promote the development of stronger and more complex r
 
 | Mixup	Cutmix |	Mosaic |	ReLU |	Swish |	Mish  |	ELU  |	BN  |	mAP@0.5  |
 | ----------   | --------  | --------| ------ | ----- | ---- | ---- | ---------- |
-|              |           | - [ ]   |		  |       |      | - [ ] |  92.34%   |
-|  - [ ]       |           |         |  - [ ] |       |      | - [ ] |  92.69%   |   
+|              |           | - [x]   |		  |       |      | - [ ] |  92.34%   |
+|  - [x]       |           |         |  - [ ] |       |      | - [ ] |  92.69%   |   
 |              |           |         |        |       |      |       |  92.93%   |
 |              |           |         |        |       |      |       |  93.12%   |
 |              |           |         |        |       |      |       |  93.61%   |
