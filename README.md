@@ -112,3 +112,12 @@ Large scale fish data can promote the development of stronger and more complex r
 
 我们将train和test中的0-15号数，做了合并，在充分混合后，取11812作为训练集，2953张作为测试集。
 train data :183, 6528, 323, 171, 694, 283, 2471, 1342, 106, 799, 1358, 1170, 234, 200, 2313
+
+```
+@article{liu2021research,
+  title={Research on Optimization Method of Multi-scale Fish Target Fast Detection Network},
+  author={Liu, Yang and Zhang, Shengmao and Wang, Fei and Fan, Wei and Zou, Guohua and Bo, Jing},
+  journal={arXiv preprint arXiv:2104.05050},
+  year={2021}
+}
+```
