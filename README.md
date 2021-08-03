@@ -1,4 +1,4 @@
-# Dataset
+# Fish detector
 ## Aquarium Fish
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/Picture1.png)
 Send e-mail to apply for download permission, `yangzai126@126.com`
@@ -10,6 +10,9 @@ Large scale fish data can promote the development of stronger and more complex r
 ### result 
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/Picture2.png)
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/mAP_for83_class.png)
+### Comparison with other methods
+![image]()
+
 ## FishCLEF-2015
   dataset come from https://github.com/perceivelab/FishCLEF-2015
 ### FishCLEF-2015 data processing
