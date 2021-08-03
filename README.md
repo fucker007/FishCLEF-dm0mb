@@ -11,7 +11,8 @@ Large scale fish data can promote the development of stronger and more complex r
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/Picture2.png)
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/mAP_for83_class.png)
 ### Comparison with other methods
-![image]()
+![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/mAP_train.png)
+![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/recall_train.png)
 
 ## FishCLEF-2015
   dataset come from https://github.com/perceivelab/FishCLEF-2015
