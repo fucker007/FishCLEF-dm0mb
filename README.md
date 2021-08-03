@@ -14,6 +14,29 @@ Large scale fish data can promote the development of stronger and more complex r
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/mAP_train.png)
 ![image](https://github.com/fucker007/FishCLEF-2020/blob/main/images/recall_train.png)
 
+#### BTP-YOLOV4
+
+| image size |	mAP	Average| IoU     |
+| -------    | ---------- | ------- |
+| 608¡Á608    |  92.57 %   | 63.71 % | 
+| 512¡Á512    |  94.37%	   | 72.81%
+| 416¡Á416    |  94.23 %   | 69.83 % |
+| 306¡Á306    |  88.16 %   | 63.67 % |
+| 256¡Á256    |  85.26 %   | 66.13 % |
+| 208¡Á208    |  60.62 %   | 54.33 % |
+
+| Mixup	Cutmix |	Mosaic |	ReLU |	Swish |	Mish  |	ELU  |	BN  |	mAP@0.5  |
+| ----------   | --------  | --------| ------ | ----- | ---- | ---- | ---------- |
+|              |           | - [ ]   |		  |       |      | - [ ] |  92.34%   |
+|  - [ ]       |           |         |  - [ ] |       |      | - [ ] |  92.69%   |   
+|              |           |         |        |       |      |       |  92.93%   |
+|              |           |         |        |       |      |       |  93.12%   |
+|              |           |         |        |       |      |       |  93.61%   |
+|              |           |         |        |       |      |       |  93.01%    |
+|              |           |         |        |       |      |       |  94.37%   |
+|              |           |         |        |       |      |       |  89.66%   |
+|              |           |         |        |       |      |       |  93.27%   |
+
 ## FishCLEF-2015
   dataset come from https://github.com/perceivelab/FishCLEF-2015
 ### FishCLEF-2015 data processing
