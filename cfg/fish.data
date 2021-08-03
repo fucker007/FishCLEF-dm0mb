@@ -1,0 +1,8 @@
+classes= 15
+train = /home/liuyang/workspace/fish_Target_Detection/f4_2015_train/VOCdevkit/VOC2015/ImageSets/Main/2015_train.txt
+train = /home/liuyang/workspace/fish_Target_Detection/f4_2015_train/VOCdevkit/VOC2015/ImageSets/Main/2015_test.txt
+#valid = data/coco_val_5k.list
+names = /home/liuyang/workspace/fish_Target_Detection/f4_2015_train/cfg/fish.names
+backup = /home/liuyang/workspace/fish_Target_Detection/f4_2015_train/models/My_not_circle_yolo_mish
+#eval=coco
+

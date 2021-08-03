@@ -83,3 +83,5 @@ Large scale fish data can promote the development of stronger and more complex r
 |  24 |  Lethrinus Ornatus         |    7  |
 |  25 |  NULL                      |  150  |
 
+我们将train和test中的0-15号数，做了合并，在充分混合后，取11812作为训练集，2953张作为测试集。
+train data :183, 6528, 323, 171, 694, 283, 2471, 1342, 106, 799, 1358, 1170, 234, 200, 2313
