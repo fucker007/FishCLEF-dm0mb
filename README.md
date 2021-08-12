@@ -41,12 +41,3 @@ Sardine, China's Horseshoe, double faced clown, clown, rootle, big fish, the Atl
 |   x    |    x    |    x      |         |        |  x    |      |       |  89.66%   |
 |   x    |    x    |    x      |         |        |       |  x   |   x   |  93.27%   |
 
-
-```
-@article{liu2021research,
-  title={Research on Optimization Method of Multi-scale Fish Target Fast Detection Network},
-  author={Liu, Yang and Zhang, Shengmao and Wang, Fei and Fan, Wei and Zou, Guohua and Bo, Jing},
-  journal={arXiv preprint arXiv:2104.05050},
-  year={2021}
-}
-```
